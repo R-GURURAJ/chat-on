@@ -1,0 +1,17 @@
+
+.TOP-BAR{
+    background: rgba(158, 151, 151, 0.301);
+   display: flex;
+   width: 90%;
+   justify-content: space-around;
+   border-radius: 3px;
+   box-shadow: 4px 2px 9px 1px black;
+  }
+  
+  .navigate{
+   display: flex;
+   width: 30%;
+   justify-content: space-around;
+   align-items: center;
+   list-style: none;
+  }
